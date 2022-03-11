@@ -1,8 +1,8 @@
-# RDP Windows Server 2019 ✨
+# RDP Windows Server 2022 ✨
 
 **Windows Server 2019 with 2CPU(S), 7GB Ram, 256GB SSD FREE with Github with RDP Access (ngrok US)**
 
-Repo link: https://github.com/HepissGamer/windows2019-rdp
+Repo link: https://github.com/HepissGamer/windows2022-rdp
 
 
 + Click Fork in the right corner of the screen to save it to your Github.
